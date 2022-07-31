@@ -8,3 +8,5 @@ require_once CORE . "/libs/Smarty.class.php";
 
 new \wfm\App();
 
+//test comment 2
+
