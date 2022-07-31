@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "wfm\\": "vendor/wfm",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "dibi/dibi": "^4.1"
+  }
+}

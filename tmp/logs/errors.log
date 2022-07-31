@@ -1,0 +1,1561 @@
+
+[2022-06-26 15:39:10] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 30 
+===============
+[2022-06-26 15:39:25] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 30 
+===============
+[2022-06-26 15:59:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 30 
+===============
+[2022-06-26 16:06:41] Text chyby: Controller app\controllers\MainController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 35 
+===============
+[2022-06-26 16:07:02] Text chyby: Controller app\controllers\MainController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 35 
+===============
+[2022-06-26 16:07:23] Text chyby: Controller app\controllers\MainController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 35 
+===============
+[2022-06-26 16:07:23] Text chyby: Controller app\controllers\MainController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 35 
+===============
+[2022-06-26 16:07:24] Text chyby: Controller app\controllers\MainController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 35 
+===============
+[2022-06-26 16:07:24] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 38 
+===============
+[2022-06-26 16:20:46] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 49 
+===============
+[2022-06-26 16:26:41] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 53 
+===============
+[2022-06-27 12:09:44] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-06-27 12:11:40] Text chyby: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 53 
+===============
+[2022-06-27 12:16:36] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:17:16] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:17:17] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:17:18] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:17:57] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:17:57] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-06-27 12:17:58] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:17:59] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-06-27 12:18:52] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:19:09] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:20:30] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:21:20] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:21:44] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 42 
+===============
+[2022-06-27 12:30:26] Text chyby: Not found sablon layouts/ishop.tpl | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 50 
+===============
+[2022-06-27 12:31:12] Text chyby: Not found sablon layouts/default.tpl | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 50 
+===============
+[2022-06-27 12:32:24] Text chyby: Undefined index: this | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:24] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:24] Text chyby: A non-numeric value encountered | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:34] Text chyby: A non-numeric value encountered | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:34] Text chyby: A non-numeric value encountered | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:40] Text chyby: Undefined index: this | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:40] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:32:40] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:34:40] Text chyby: Undefined index: content | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:34:40] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 34 
+===============
+[2022-06-27 12:57:05] Text chyby: Undefined index: this | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 31 
+===============
+[2022-06-27 12:57:05] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 31 
+===============
+[2022-06-27 12:57:05] Text chyby: Call to a member function getMetaView() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 31 
+===============
+[2022-06-27 12:57:59] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 8 "{meta}" unknown tag 'meta' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 8 
+===============
+[2022-06-27 13:04:38] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:04:38] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:05:53] Text chyby: Undefined index: data | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:05:53] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:06:05] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:06:05] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:06:05] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:06:05] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:06:22] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:06:22] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:09:00] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 36 
+===============
+[2022-06-27 13:11:28] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:12:08] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:12:09] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:12:10] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:15:00] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:15:01] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:15:10] Text chyby: Illegal offset type | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:15:21] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:15:28] Text chyby: Illegal offset type | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:17:34] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:18:08] Text chyby: Undefined index: test1 | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:18:08] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:18:08] Text chyby: Undefined index:  | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 42 
+===============
+[2022-06-27 13:28:51] Text chyby: Undefined index: data | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 25 
+===============
+[2022-06-27 13:28:51] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 25 
+===============
+[2022-06-27 13:29:53] Text chyby: Undefined index: data | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 25 
+===============
+[2022-06-27 13:29:53] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 25 
+===============
+[2022-06-28 11:08:06] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-06-28 11:42:20] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 11:44:56] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 11:45:31] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 11:45:36] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 11:46:12] Text chyby: Class 'app\controllers\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\MainController.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:49:00] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 11:49:37] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:49:39] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:32] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:32] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:33] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:34] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:34] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-06-28 11:51:56] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:57] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:57] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:51:57] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:52:19] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:54:09] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:55:14] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:55:16] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 11:59:23] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 12:07:49] Text chyby: Trait 'Dibi\TSingleton' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 8 
+===============
+[2022-06-28 12:08:06] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 13 
+===============
+[2022-06-28 12:20:35] Text chyby: Class 'app\controllers\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\MainController.php | 
+        Radek: 15 
+===============
+[2022-06-28 12:20:55] Text chyby: Class 'app\controllers\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\MainController.php | 
+        Radek: 14 
+===============
+[2022-06-28 12:25:13] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:25:31] Text chyby: Class 'wfm\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 11 
+===============
+[2022-06-28 12:25:44] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:28:10] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-06-28 12:28:10] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-06-28 12:29:06] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-06-28 12:29:06] Text chyby: undefined extension class 'Smarty_Internal_Method_Register_Object' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-06-28 12:35:51] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:36:21] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:36:24] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:37:04] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:37:06] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:37:31] Text chyby: Class 'dibi\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:37:40] Text chyby: Class 'Dibi\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:37:46] Text chyby: Class 'Dibi\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:37:47] Text chyby: Class 'Dibi\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 12:38:12] Text chyby: syntax error, unexpected '.', expecting identifier (T_STRING) or '{' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 4 
+===============
+[2022-06-28 12:38:31] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 12 
+===============
+[2022-06-28 13:27:56] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-06-28 13:31:20] Text chyby: Class 'app\models\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\app\models\Main.php | 
+        Radek: 12 
+===============
+[2022-06-28 13:34:46] Text chyby: Class 'Dibi' not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Db.php | 
+        Radek: 16 
+===============
+[2022-06-28 13:35:57] Text chyby: Class 'app\models\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\app\models\Main.php | 
+        Radek: 13 
+===============
+[2022-07-06 18:10:10] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-06 18:21:18] Text chyby: Attempt to read undeclared property Dibi\Result::$title. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-06 18:21:46] Text chyby: Attempt to read undeclared property Dibi\Result::$title. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-06 18:24:44] Text chyby: Attempt to read undeclared property Dibi\Result::$title. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-06 18:25:11] Text chyby: Attempt to read undeclared property Dibi\Result::$title. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-06 18:25:50] Text chyby: Attempt to read undeclared property Dibi\Result::$title. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-06 18:26:50] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 31 
+===============
+[2022-07-06 18:30:17] Text chyby: Object of class Dibi\Result could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 25 
+===============
+[2022-07-06 18:30:38] Text chyby: Object of class Dibi\Result could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 25 
+===============
+[2022-07-06 18:57:03] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 18:57:03] Text chyby: undefined extension class 'Smarty_Internal_Method_Register_Object' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 18:59:59] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 18:59:59] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:00:28] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:00:28] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:01:55] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:01:55] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:01:58] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:01:58] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:02:01] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:02:01] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:02:01] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-06 19:02:50] Text chyby: Too few arguments to function wfm\View::__construct(), 0 passed in C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php on line 52 and exactly 5 expected | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 14 
+===============
+[2022-07-06 19:02:59] Text chyby: Too few arguments to function wfm\View::__construct(), 0 passed in C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php on line 52 and exactly 5 expected | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 14 
+===============
+[2022-07-06 19:03:19] Text chyby: Too few arguments to function wfm\View::__construct(), 1 passed in C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php on line 52 and exactly 5 expected | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 14 
+===============
+[2022-07-06 19:03:59] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:03:59] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:04:13] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:04:13] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:04:22] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:04:22] Text chyby: undefined extension class 'Smarty_Internal_Method_Assign_By_Ref' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:08:30] Text chyby: Undefined property: Smarty_Internal_Undefined::$objMap | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_extension_handler.php | 
+        Radek: 132 
+===============
+[2022-07-06 19:08:30] Text chyby: undefined extension class 'Smarty_Internal_Method_Register_Object' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_undefined.php | 
+        Radek: 62 
+===============
+[2022-07-06 19:09:53] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:09:53] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:09:53] Text chyby: Call to a member function strEcho() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:00] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:00] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:00] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:17] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:17] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:17] Text chyby: Call to a member function strEcho() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:24] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:24] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:10:24] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:13:54] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:13:54] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:13:54] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:14:05] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:14:05] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:14:05] Text chyby: Call to a member function strEcho() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:15:56] Text chyby: Undefined property: app\controllers\Test::$strEcho | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:16:16] Text chyby: Undefined property: app\controllers\Test::$strEcho | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:16:57] Text chyby: Undefined property: app\controllers\Test::$strEcho | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:18:36] Text chyby: Undefined index: test | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:18:36] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-06 19:18:36] Text chyby: Call to a member function strEcho() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 49 
+===============
+[2022-07-07 13:14:22] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-07 13:16:56] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 10 "{php}" {php}{/php} tags not allowed. Use SmartyBC to enable them | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 10 
+===============
+[2022-07-07 13:17:19] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 10 "{php}" {php}{/php} tags not allowed. Use SmartyBC to enable them | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 10 
+===============
+[2022-07-07 13:18:00] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 10 "{php}" {php}{/php} tags not allowed. Use SmartyBC to enable them | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 10 
+===============
+[2022-07-07 13:18:08] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 10 "{php}" {php}{/php} tags not allowed. Use SmartyBC to enable them | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 10 
+===============
+[2022-07-07 13:18:18] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 10 "{php}" {php}{/php} tags not allowed. Use SmartyBC to enable them | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 10 
+===============
+[2022-07-07 13:19:59] Text chyby: Undefined index: _SESSION | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 50 
+===============
+[2022-07-07 13:19:59] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 50 
+===============
+[2022-07-07 13:20:11] Text chyby: Undefined index: _SESSION | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 50 
+===============
+[2022-07-07 13:20:11] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 50 
+===============
+[2022-07-07 13:25:04] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 43 
+===============
+[2022-07-07 13:26:37] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 44 
+===============
+[2022-07-07 13:27:23] Text chyby: Undefined index: id | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 44 
+===============
+[2022-07-07 13:30:14] Text chyby: Undefined index: _SESSION | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 44 
+===============
+[2022-07-07 13:30:14] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c4305724023c5ca8d8edcb562819a1cff2968764_0.file.ishop.tpl.php | 
+        Radek: 44 
+===============
+[2022-07-08 13:04:42] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 14:54:56] Text chyby: Undefined index: data | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 59 
+===============
+[2022-07-08 14:54:56] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 59 
+===============
+[2022-07-08 15:37:35] Text chyby: Unknown column 'pd.id' in 'on clause' | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 15:38:08] Text chyby: Unknown column 'pd.id' in 'on clause' | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 15:46:17] Text chyby: Unknown column 'pd.id' in 'on clause' | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 15:46:41] Text chyby: Unknown column 'pd.id' in 'on clause' | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 15:46:58] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 53 
+===============
+[2022-07-08 16:12:20] Text chyby: Undefined index: this | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 77 
+===============
+[2022-07-08 16:12:20] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 77 
+===============
+[2022-07-08 16:12:20] Text chyby: Call to a member function getPart() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\3da167e38e25b5d1b9519a9ce19aa6f8dfcf0f40_0.file.index.tpl.php | 
+        Radek: 77 
+===============
+[2022-07-08 21:54:43] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 48 
+===============
+[2022-07-08 21:56:47] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:56:47] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:56:47] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:56:47] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:56:47] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:15] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:15] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:15] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:15] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:15] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 21:59:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:55] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:55] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:55] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:55] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:55] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:00:57] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:03] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:03] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:03] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:05] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:05] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:05] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:22] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:22] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:22] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:37] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:02:37] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:10:31] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:10:31] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:13:34] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:13:35] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:13:37] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:13:37] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:13:38] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:13:40] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:13:47] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:14:18] Text chyby: Accessing static property wfm\App::$app as non static | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:14:18] Text chyby: Undefined property: wfm\App::$app | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:14:18] Text chyby: Call to a member function getProperty() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:16:27] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:16:34] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App:app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:16:42] Text chyby: Accessing static property wfm\App::$app as non static | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:16:42] Text chyby: Undefined property: wfm\App::$app | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:16:42] Text chyby: Call to a member function getProperty() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:16:46] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-08 22:16:50] Text chyby: Accessing static property wfm\App::$app as non static | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:16:50] Text chyby: Undefined property: wfm\App::$app | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:16:50] Text chyby: Call to a member function getProperty() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:17:15] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{~$App::app->getProperty('site_name')}</a>"  - Unexpected "~" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:17:27] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:18:08] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\parts\header.tpl"  on line 77 "<a class="navbar-brand" href="index.html">{$App::app->getProperty('site_name')}</a>"  - Unexpected "->", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 77 
+===============
+[2022-07-08 22:18:21] Text chyby: Accessing static property wfm\App::$app as non static | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:18:21] Text chyby: Undefined property: wfm\App::$app | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:18:21] Text chyby: Call to a member function getProperty() on null | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 107 
+===============
+[2022-07-08 22:41:06] Text chyby: Class 'app\widgets\Language\Language' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 14 
+===============
+[2022-07-08 22:41:40] Text chyby: Class 'app\widgets\Language' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 14 
+===============
+[2022-07-08 22:41:40] Text chyby: Class 'app\widgets\Language' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 14 
+===============
+[2022-07-08 22:41:41] Text chyby: Class 'app\widgets\Language' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 14 
+===============
+[2022-07-08 22:42:41] Text chyby: Class 'app\widgets\Language\Language' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 14 
+===============
+[2022-07-08 22:44:29] Text chyby: Dibi is not connected to database. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\dibi.php | 
+        Radek: 113 
+===============
+[2022-07-08 22:44:58] Text chyby: Dibi is not connected to database. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\dibi.php | 
+        Radek: 113 
+===============
+[2022-07-08 22:44:59] Text chyby: Dibi is not connected to database. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\dibi.php | 
+        Radek: 113 
+===============
+[2022-07-08 22:50:15] Text chyby: Non-static method Dibi\Result::fetchAssoc() should not be called statically | File: C:\OpenServer\domains\ishop2.cz\app\widgets\language\Language.php | 
+        Radek: 27 
+===============
+[2022-07-08 22:50:15] Text chyby: Using $this when not in object context | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Result.php | 
+        Radek: 239 
+===============
+[2022-07-08 22:51:37] Text chyby: Unknown column 'code' in associative descriptor. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Result.php | 
+        Radek: 255 
+===============
+[2022-07-08 22:54:00] Text chyby: Call to undefined method Dibi\Connection::fetchAssoc(). | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 38 
+===============
+[2022-07-08 22:54:17] Text chyby: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 22:54:26] Text chyby: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'MYSQLI_ASSOC' at line 1 | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 22:54:36] Text chyby: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-08 23:18:18] Text chyby: Not found language fr | File: C:\OpenServer\domains\ishop2.cz\app\widgets\language\Language.php | 
+        Radek: 39 
+===============
+[2022-07-08 23:29:49] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\layouts\ishop.tpl"  on line 3 "{new Language()}" unknown function 'Language' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 3 
+===============
+[2022-07-08 23:38:52] Text chyby: Only variables should be passed by reference | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 19 
+===============
+[2022-07-08 23:39:22] Text chyby: Only variables should be passed by reference | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 19 
+===============
+[2022-07-08 23:39:48] Text chyby: Only variables should be passed by reference | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 19 
+===============
+[2022-07-08 23:41:45] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-08 23:59:13] Text chyby: Allowed memory size of 1610612736 bytes exhausted (tried to allocate 32768 bytes) | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 1 
+===============
+[2022-07-08 23:59:28] Text chyby: Cannot access protected property app\widgets\language\Language::$language | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 38 
+===============
+[2022-07-09 00:01:56] Text chyby: Maximum execution time of 60 seconds exceeded | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 241 
+===============
+[2022-07-09 00:09:32] Text chyby: Object of class Dibi\Row could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-09 00:10:17] Text chyby: Object of class Dibi\Row could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-09 00:10:17] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-09 00:11:45] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\widgets\lang.tpl"  on line 13 "{{$App::$app->getProperty('language')['code']}}"  - Unexpected "[", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 13 
+===============
+[2022-07-09 00:12:09] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\widgets\lang.tpl"  on line 13 "{{$App::$app->getProperty('language').code}}"  - Unexpected ".", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 13 
+===============
+[2022-07-09 00:12:21] Text chyby: Syntax error in template "file:C:\OpenServer\domains\ishop2.cz\app\views\templates\widgets\lang.tpl"  on line 13 "{$App::$app->getProperty('language').code}"  - Unexpected ".", expected one of: "}" | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_templatecompilerbase.php | 
+        Radek: 13 
+===============
+[2022-07-09 00:12:31] Text chyby: Object of class Dibi\Row could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 39 
+===============
+[2022-07-09 00:14:24] Text chyby: Object of class Dibi\Row could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 39 
+===============
+[2022-07-09 00:24:29] Text chyby: Maximum execution time of 60 seconds exceeded | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 233 
+===============
+[2022-07-09 00:34:55] Text chyby: Unable to load template 'file:lang_tree.tpl' in 'widgets/lang.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-09 00:48:01] Text chyby: Cannot access protected property app\widgets\language\Language::$languages | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 33 
+===============
+[2022-07-09 00:48:05] Text chyby: Cannot access protected property app\widgets\language\Language::$languages | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 33 
+===============
+[2022-07-09 00:48:07] Text chyby: Cannot access protected property app\widgets\language\Language::$languages | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 33 
+===============
+[2022-07-09 00:50:26] Text chyby: Cannot access protected property app\widgets\language\Language::$languages | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 33 
+===============
+[2022-07-09 00:50:30] Text chyby: Cannot access protected property app\widgets\language\Language::$languages | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\c349d6e95d4b5af8706f71fd87ea280cd4ae347c_0.file.lang.tpl.php | 
+        Radek: 33 
+===============
+[2022-07-09 12:20:04] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 48 
+===============
+[2022-07-09 12:20:04] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-10 14:59:00] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-11 19:12:19] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-11 19:44:53] Text chyby: An iterator cannot be used with foreach by reference | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 84 
+===============
+[2022-07-11 19:45:35] Text chyby: Cannot use object of type Dibi\Result as array | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 88 
+===============
+[2022-07-11 19:47:57] Text chyby: Attempt to read undeclared property Dibi\Result::$node. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-11 19:49:39] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:49:39] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 89 
+===============
+[2022-07-11 19:49:39] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:49:39] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 89 
+===============
+[2022-07-11 19:53:27] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:53:27] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 91 
+===============
+[2022-07-11 19:53:27] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:53:27] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 91 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:27] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:55:27] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:27] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:55:27] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:27] Text chyby: Use of undefined constant id - assumed 'id' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 86 
+===============
+[2022-07-11 19:55:37] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:55:37] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 19:55:37] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:55:37] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 19:57:47] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 19:57:47] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 19:57:47] Text chyby: Cannot assign by reference to overloaded object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 19:59:19] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:00:16] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:01:18] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:01:18] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:01:18] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:01:49] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:01:49] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:01:49] Text chyby: Cannot assign by reference to overloaded object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:01:53] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:01:53] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:01:53] Text chyby: Cannot assign by reference to overloaded object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:02:02] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:02:02] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:02:02] Text chyby: Cannot assign by reference to overloaded object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:02:02] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-11 20:03:11] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:03:11] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 20:03:11] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 20:07:02] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 91 
+===============
+[2022-07-11 21:06:28] Text chyby: Controller app\controllers\CategoryController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-11 21:06:34] Text chyby: Controller app\controllers\CategoryController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-11 21:34:41] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:34:41] Text chyby: Unsupported operand types | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:35:05] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:35:05] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:35:26] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:35:26] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:35:26] Text chyby: Creating default object from empty value | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:35:43] Text chyby: Undefined variable: children | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:35:43] Text chyby: Attempt to read missing column ''. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:35:43] Text chyby: Indirect modification of overloaded property Dibi\Row::$ has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:35:43] Text chyby: Creating default object from empty value | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:36:24] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:36:24] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:37:05] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:37:05] Text chyby: Array to string conversion | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 90 
+===============
+[2022-07-11 21:37:37] Text chyby: Illegal string offset 'slug' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\menu_tpl.php | 
+        Radek: 2 
+===============
+[2022-07-11 21:37:37] Text chyby: Illegal string offset 'title' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\menu_tpl.php | 
+        Radek: 2 
+===============
+[2022-07-11 21:37:37] Text chyby: Illegal string offset 'slug' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\menu_tpl.php | 
+        Radek: 2 
+===============
+[2022-07-11 21:37:37] Text chyby: Illegal string offset 'title' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\menu_tpl.php | 
+        Radek: 2 
+===============
+[2022-07-11 21:37:37] Text chyby: Illegal string offset 'slug' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\menu_tpl.php | 
+        Radek: 2 
+===============
+[2022-07-11 21:37:37] Text chyby: Illegal string offset 'title' | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\menu_tpl.php | 
+        Radek: 2 
+===============
+[2022-07-11 21:38:04] Text chyby: Controller app\controllers\CategoryController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-11 21:39:48] Text chyby: Attempt to read missing column '4'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:39:48] Text chyby: Attempt to read missing column '5'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:40:26] Text chyby: Attempt to read missing column '4'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:40:26] Text chyby: Attempt to read missing column '5'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:44:43] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:44:43] Text chyby: Indirect modification of overloaded property Dibi\Row::$children has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 92 
+===============
+[2022-07-11 21:44:43] Text chyby: Creating default object from empty value | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 92 
+===============
+[2022-07-11 21:48:08] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:48:08] Text chyby: Indirect modification of overloaded property Dibi\Row::$children has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 92 
+===============
+[2022-07-11 21:52:12] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:52:29] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 21:52:58] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:04:21] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:05:24] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:05:24] Text chyby: Attempt to modify property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 96 
+===============
+[2022-07-11 22:05:24] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 91 
+===============
+[2022-07-11 22:05:24] Text chyby: Attempt to modify property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 96 
+===============
+[2022-07-11 22:05:48] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:05:48] Text chyby: Attempt to assign property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 96 
+===============
+[2022-07-11 22:05:48] Text chyby: Attempt to modify property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 97 
+===============
+[2022-07-11 22:05:48] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 91 
+===============
+[2022-07-11 22:05:48] Text chyby: Attempt to assign property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 96 
+===============
+[2022-07-11 22:05:48] Text chyby: Attempt to modify property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 97 
+===============
+[2022-07-11 22:06:02] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:07:23] Text chyby: Object of class Dibi\Row could not be converted to string | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 50 
+===============
+[2022-07-11 22:07:23] Text chyby: Unknown column ''id'' in 'where clause' | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Drivers\MySqliDriver.php | 
+        Radek: 175 
+===============
+[2022-07-11 22:09:59] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:09:59] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 95 
+===============
+[2022-07-11 22:10:18] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:10:18] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 95 
+===============
+[2022-07-11 22:10:50] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:10:50] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 95 
+===============
+[2022-07-11 22:10:50] Text chyby: Indirect modification of overloaded element of Dibi\Row has no effect | File: C:\OpenServer\domains\ishop2.cz\app\widgets\menu\Menu.php | 
+        Radek: 91 
+===============
+[2022-07-11 22:11:29] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:12:16] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:12:30] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:13:47] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:13:47] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-11 22:15:01] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:16:12] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:16:13] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-11 22:16:43] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:16:44] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-11 22:17:15] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-11 22:22:39] Text chyby: Attempt to read missing column 'children'. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Row.php | 
+        Radek: 52 
+===============
+[2022-07-13 00:20:55] Text chyby: Controller app\controllers\CartController not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 56 
+===============
+[2022-07-13 00:20:55] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-13 00:27:44] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 48 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 19 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: id | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 23 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: id | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 29 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: title | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 30 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: slug | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 31 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: price | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 32 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: img | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 34 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 35 
+===============
+[2022-07-13 01:10:24] Text chyby: Undefined index: price | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 40 
+===============
+[2022-07-13 01:10:24] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 48 
+===============
+[2022-07-13 01:13:44] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 18 
+===============
+[2022-07-13 01:14:07] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 18 
+===============
+[2022-07-13 01:14:24] Text chyby: Undefined index: id | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 18 
+===============
+[2022-07-13 01:15:29] Text chyby: Attempt to read undeclared property Dibi\Result::$id. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-13 01:24:37] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 48 
+===============
+[2022-07-13 01:26:35] Text chyby: Cannot use object of type Dibi\Result as array | File: C:\OpenServer\domains\ishop2.cz\app\controllers\CartController.php | 
+        Radek: 25 
+===============
+[2022-07-13 01:34:24] Text chyby: Undefined index: price | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 40 
+===============
+[2022-07-13 01:34:24] Text chyby: View not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\View.php | 
+        Radek: 48 
+===============
+[2022-07-13 01:34:50] Text chyby: Undefined index: price | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 40 
+===============
+[2022-07-13 01:37:39] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-13 01:39:07] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-13 02:24:56] Text chyby: Unable to load template 'file:Cart/.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 02:25:37] Text chyby: Unable to load template 'file:Cart/.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 02:26:39] Text chyby: Unable to load template 'file:Cart/cart_modal.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 02:28:54] Text chyby: Unable to load template 'file:Cart/cart_modal.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 02:29:46] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-13 02:29:46] Text chyby: Unable to load template 'file:Cart/cart_modal.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 02:31:52] Text chyby: Unable to load template 'file:Cart/cart_modal.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 02:33:18] Text chyby: require(Cart/cart_modal.php): failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Controller.php | 
+        Radek: 60 
+===============
+[2022-07-13 02:33:18] Text chyby: require(): Failed opening required 'Cart/cart_modal.php' (include_path='.') | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Controller.php | 
+        Radek: 60 
+===============
+[2022-07-13 02:37:59] Text chyby: Unable to load template 'file:Cart/cart_modal.tpl' | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\libs\sysplugins\smarty_internal_template.php | 
+        Radek: 195 
+===============
+[2022-07-13 22:21:52] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-13 22:22:54] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-13 22:41:34] Text chyby: Method deleteAction not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 53 
+===============
+[2022-07-13 22:41:34] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-13 23:07:39] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-13 23:07:43] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-15 11:25:57] Text chyby: Undefined index: cart.qty | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 70 
+===============
+[2022-07-15 11:26:00] Text chyby: Undefined index: cart.qty | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 70 
+===============
+[2022-07-15 11:26:13] Text chyby: Undefined index: cart.qty | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\074ae8f3584a4325f24648a33701db0b24b0ea88_0.file.header.tpl.php | 
+        Radek: 70 
+===============
+[2022-07-15 11:34:18] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 11:44:21] Text chyby: Attempt to read undeclared property Dibi\Result::$id. | File: C:\OpenServer\domains\ishop2.cz\vendor\dibi\dibi\src\Dibi\Strict.php | 
+        Radek: 76 
+===============
+[2022-07-15 11:53:39] Text chyby: Undefined index: id | File: C:\OpenServer\domains\ishop2.cz\app\controllers\ProductController.php | 
+        Radek: 19 
+===============
+[2022-07-15 12:06:53] Text chyby: Cannot use object of type app\widgets\language\Language as array | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\43706f63b43264dc627a0b4404487fdf020ccc47_0.file.view.tpl.php | 
+        Radek: 58 
+===============
+[2022-07-15 12:15:07] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:15:07] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:15:18] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:15:18] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:16:13] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:16:13] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:16:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:16:21] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:16:23] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:16:23] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-15 12:18:32] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-15 12:19:25] Text chyby: Undefined index: is_download | File: C:\OpenServer\domains\ishop2.cz\app\models\Cart.php | 
+        Radek: 26 
+===============
+[2022-07-16 12:07:33] Text chyby: Class 'app\controllers\dibi' not found | File: C:\OpenServer\domains\ishop2.cz\app\controllers\AppController.php | 
+        Radek: 24 
+===============
+[2022-07-16 12:07:33] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-17 14:37:31] Text chyby: Page not found | File: C:\OpenServer\domains\ishop2.cz\vendor\wfm\Router.php | 
+        Radek: 59 
+===============
+[2022-07-17 14:43:52] Text chyby: Invalid argument supplied for foreach() | File: C:\OpenServer\domains\ishop2.cz\app\controllers\CategoryController.php | 
+        Radek: 19 
+===============
+[2022-07-17 14:43:52] Text chyby: Undefined variable: breadcrumbs | File: C:\OpenServer\domains\ishop2.cz\app\controllers\CategoryController.php | 
+        Radek: 22 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:03:34] Text chyby: Trying to get property of non-object | File: C:\OpenServer\domains\ishop2.cz\app\models\Category.php | 
+        Radek: 23 
+===============
+[2022-07-17 15:13:02] Text chyby: implode(): Invalid arguments passed | File: C:\OpenServer\domains\ishop2.cz\app\controllers\CategoryController.php | 
+        Radek: 21 
+===============
+[2022-07-17 15:49:35] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:50:53] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:50:53] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:51:19] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:51:19] Text chyby: Cannot use object of type Dibi\Result as array | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 32 
+===============
+[2022-07-17 15:52:35] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:52:35] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:53:04] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:53:09] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:53:16] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:53:22] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:53:30] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 15:54:12] Text chyby: Undefined index: main_index_featured_products | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\21831a995d69de34759ac72ddb7dc780d7bf7ba6_0.file.products_loop.tpl.php | 
+        Radek: 28 
+===============
+[2022-07-17 21:43:19] Text chyby: Undefined index: pagination | File: C:\OpenServer\domains\ishop2.cz\app\views\templates_c\d99a931c0b444a666f8b986a7400f4ee94d622f9_0.file.view.tpl.php | 
+        Radek: 97 
+===============
